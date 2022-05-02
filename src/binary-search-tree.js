@@ -16,7 +16,7 @@ class BinarySearchTree {
      if(this.rootTree === null) {
        return this.rootTree;
      }
-     return this.rootTree.data;
+     return this.rootTree;
      //throw new NotImplementedError('Not implemented');
      // remove line with error and write your code here
    }
