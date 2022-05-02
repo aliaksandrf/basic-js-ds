@@ -7,4 +7,4 @@ class ListNode {
 
 module.exports = {
   ListNode
-};
+}; 
